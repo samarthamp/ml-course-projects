@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scikit-learn-extra
+plotly
+opencv-python
+pillow
+scikit-image
+imageio
+torch
+torchvision
+tqdm
+statsmodels
+pysr
+wandb
